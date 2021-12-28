@@ -1,5 +1,7 @@
 ![alt text](https://github.com/LALalitViyogi/LALalitViyogi/blob/main/header.png?raw=true)
 
+🚀 Software developer 🚀 
+
 <!--
 **LALalitViyogi/LALalitViyogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Pre-Final Year CSE undergrad at NIT-Jalandhar.
+
+- 🔭 I'm a Pre-Final Year CSE undergrad at NIT-Jalandhar.
+- 🔭 I've recently worked as Python Developer Intern at Lejhro Technologies.
+ 
