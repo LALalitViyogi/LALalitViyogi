@@ -1,4 +1,4 @@
-[alt text](https://github.com/LALalitViyogi/LALalitViyogi/blob/main/header.png?raw=true)
+![alt text](https://github.com/LALalitViyogi/LALalitViyogi/blob/main/header.png?raw=true)
 
 <!--
 **LALalitViyogi/LALalitViyogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
