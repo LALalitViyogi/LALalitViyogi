@@ -1,6 +1,6 @@
 ![alt text](https://github.com/LALalitViyogi/LALalitViyogi/blob/main/header.png?raw=true)
 
-🚀 Software developer 🚀 
+## 🚀 Software Developer 🚀 
 
 <!--
 **LALalitViyogi/LALalitViyogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,4 +24,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/l-a-lalit-viyogi/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viyogi.lalit786@gmail.com)](mailto:viyogi.lalit786@gmail.com)
 - 😄 Pronouns: He/Him
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LALalitViyogi&show_icons=true&theme=light&locale=en" alt="LALalitViyogi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LALalitViyogi&" alt="LALalitViyogi" /></p>
+
  
