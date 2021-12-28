@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/l-a-lalit-viyogi/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viyogi.lalit786@gmail.com)](mailto:viyogi.lalit786@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to watch Game Of Thrones, Good Doctor series.
+- ⚡ Fun fact: I love to watch GAME OF THRONE, GOOD DOCTOR.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LALalitViyogi&show_icons=true&theme=light&locale=en" alt="LALalitViyogi" /></p>
 
