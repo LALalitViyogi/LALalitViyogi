@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💼 I'm a Pre-Final Year CSE undergrad at NIT-Jalandhar.
+- 💼 I'm a Final Year CSE undergrad at NIT-Jalandhar.
 - 🔭 I've recently worked as Python Developer Intern at Lejhro Technologies.
 - 🌱 I’m currently learning API development and database management.
 - 👯 I’m looking to collaborate on Test-Driven Software Development in amazing Python 🐍.
