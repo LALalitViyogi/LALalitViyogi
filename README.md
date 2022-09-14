@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 💼 I'm a Final Year CSE undergrad at NIT-Jalandhar.
-- 🔭 I've recently worked as Python Developer Intern at Lejhro Technologies.
+- 🔭 I've recently worked as Machine Learning Engineer Intern at Indian Institute of Remote Sensing (ISRO).
 - 🌱 I’m currently learning API development and database management.
 - 👯 I’m looking to collaborate on Test-Driven Software Development in amazing Python 🐍.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/l-a-lalit-viyogi/) 
